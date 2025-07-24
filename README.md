@@ -106,7 +106,9 @@ ESSENTRA combines cutting-edge AI technologies with enterprise-grade architectur
 
 ### System Overview
 
-![System Architecture](assests\SystemArchitecture.png)
+<div align="center">
+<img src="assests/SystemArchitecture.png" alt="System Architecture" width="700">
+</div>
 
 ESSENTRA follows a layered architecture with clear separation of concerns:
 
@@ -119,7 +121,9 @@ ESSENTRA follows a layered architecture with clear separation of concerns:
 
 ### MCP Protocol Implementation
 
-![MCP Message Flow](assests\MCPMessageFlow.png)
+<div align="center">
+<img src="assests/MCPMessageFlow.png" alt="MCP Message Flow" width="500">
+</div>
 
 The Model Context Protocol enables structured communication between agents:
 
@@ -130,7 +134,9 @@ The Model Context Protocol enables structured communication between agents:
 
 ### LangGraph Workflow
 
-![LangGraph Workflow](assests\LanggraphWorkFlow.png)
+<div align="center">
+<img src="assests/LanggraphWorkFlow.png" alt="LangGraph Workflow" width="600">
+</div>
 
 Intelligent workflow orchestration with conditional routing:
 
@@ -141,7 +147,9 @@ Intelligent workflow orchestration with conditional routing:
 
 ### Data Processing Pipeline
 
-![Data Processing](assests/DataProcessing.png)
+<div align="center">
+<img src="assests/DataProcessing.png" alt="Data Processing" width="650">
+</div>
 
 End-to-end document processing with optimization:
 
