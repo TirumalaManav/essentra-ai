@@ -141,7 +141,7 @@ Intelligent workflow orchestration with conditional routing:
 
 ### Data Processing Pipeline
 
-![Data Processing](assests\DataProcessing.png)
+![Data Processing](assests/DataProcessing.png)
 
 End-to-end document processing with optimization:
 
